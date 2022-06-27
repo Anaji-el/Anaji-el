@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anaji-el&theme=radical" />
 </p>
 
-![Anaji-el's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anaji-el&theme=redical)
+![Anaji-el's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anaji-el&theme=Midnight)
