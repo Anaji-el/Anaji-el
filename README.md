@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anaji-el
 - 👀 I’m interested in Computer programming
-- :+1: I'm currently working on a project called **![Philosophers](https://github.com/Anaji-el/Philosophers.git)**
+- :+1: I'm currently working on a project called **![Minshell](https://github.com/Anaji-el/Minishell)**
 - 🌱 I’m currently learning C language
 - 📫 How to reach me ayoubidrissi00@outlook.com
 
