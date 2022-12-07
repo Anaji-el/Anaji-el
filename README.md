@@ -11,10 +11,11 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 --->
 
+![Anaji-el's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anaji-el&theme=Midnight)
+
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anaji-el&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anaji-el&theme=radical" />
 </p>
 
-![Anaji-el's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anaji-el&theme=Midnight)
