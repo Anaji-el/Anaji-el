@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 👋 Hello, I’m @Ayoub_idrissi
+- 👋 Hi, I’m @Ayoub_idrissi
 - 👀 I’m interested in Computer programming
 - :+1: I'm currently working on a project called 💻[CUB3D](https://github.com/Anaji-el/Cub3D)**
 - 🌱 I’m currently learning C++ && JS
