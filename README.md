@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Ayoub_idrissi
 - 👀 I’m interested in Computer programming
-- :+1: I'm currently working on a project called 💻[INCEPTION](https://github.com/Anaji-el/inception)**
+- :+1: I'm currently working on a project called 💻[FT_IRC](https://github.com/Anaji-el/ft_irc)**
 - 🌱 I’m currently learning C++ && JS
 - 📫 How to reach me ayoubidrissi00@outlook.com/ 
 
