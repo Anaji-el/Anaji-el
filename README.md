@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Ayoub_idrissi
 - 👀 I’m interested in Computer programming
-- :+1: I'm currently working on a project called 💻[FT_TRANSCENDENCE](https://github.com/Anaji-el/ft_)**
+- :+1: I'm currently working on a project called 💻[FT_TRANSCENDENCE]()**
 - 🌱 I’m currently learning angular
 - 📫 How to reach me ayoubidrissi00@outlook.com/ 
 
