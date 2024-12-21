@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @Ayoub_idrissi
 - 👀 I’m interested in Computer programming
-- :+1: I'm currently working on a project called 💻[FT_TRANSCENDENCE]()**
-- 🌱 I’m currently learning angular
+- :+1: I'm currently working on a project called 💻[RED_TETRIS]()**
+- 🌱 I’m currently learning .NET
 - 📫 How to reach me ayoubidrissi00@outlook.com/ 
 
 
